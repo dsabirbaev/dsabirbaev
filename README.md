@@ -1,9 +1,8 @@
-Hi there, I'm Davran Sabirbaev
-=================================
 
-Web Developer
--------------
-
+<div id="header" align="center">
+  <h1>Hi there, I'm Davran Sabirbaev</h1>
+  <h3>Web Developer</h3>
+</div>  
 ### Skills
 
 
