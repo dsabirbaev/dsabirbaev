@@ -5,8 +5,9 @@
 </div>  
 
 
+  <h1 align="center">Follow me</h1>
 
- <p dir="auto">
+ <p dir="auto" align="center">
         <a href="https://t.me/SabirbaevD" rel="nofollow"><img
                 src="https://camo.githubusercontent.com/277bacdbfadb1f31b9cb47fc7f25627ddc7abbbb9e10ae72ae8c4ea76c8487e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3038323033323f7374796c653d666f722d7468652d6261646765266c6f676f3d54656c656772616d266c6f676f436f6c6f723d23323641354534"
                 alt="Telegram"
