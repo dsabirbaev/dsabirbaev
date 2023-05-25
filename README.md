@@ -3,28 +3,24 @@
   <h1>Hi there, I'm Davran Sabirbaev</h1>
   <h3>Web Developer</h3>
 </div>  
-### Skills
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a>
-</p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/dsabirbaev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/davranbek-sabirbaev-86615022a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sabirbaevD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+ <p dir="auto">
+        <a href="https://t.me/SabirbaevD" rel="nofollow"><img
+                src="https://camo.githubusercontent.com/277bacdbfadb1f31b9cb47fc7f25627ddc7abbbb9e10ae72ae8c4ea76c8487e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3038323033323f7374796c653d666f722d7468652d6261646765266c6f676f3d54656c656772616d266c6f676f436f6c6f723d23323641354534"
+                alt="Telegram"
+                data-canonical-src="https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&amp;logo=Telegram&amp;logoColor=#26A5E4"
+                style="max-width: 100%;"></a>
+        <a href="https://www.linkedin.com/in/davranbek-sabirbaev-86615022a/" rel="nofollow"><img
+                src="https://camo.githubusercontent.com/50c927372bcd40a8073c554e75461522271aeeaf055b61838eba33cb7ccdded8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3038323033323f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d304136364332"
+                alt="LinkedIn"
+                data-canonical-src="https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=0A66C2"
+                style="max-width: 100%;"></a>
+        <a href="https://twitter.com/sabirbaevD" rel="nofollow"><img
+                src="https://camo.githubusercontent.com/3aff2991ab69134c0994996fa8693166eb173ec12daf0aa657af888e538f84fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3038323033323f7374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d23314441314632"
+                alt="Twitter"
+                data-canonical-src="https://img.shields.io/badge/-Twitter-082032?style=for-the-badge&amp;logo=Twitter&amp;logoColor=#1DA1F2"
+                style="max-width: 100%;"></a>
+    </p>
   
