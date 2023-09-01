@@ -6,7 +6,9 @@
 </h1>  
 
   
-<h1 align="center">Follow me</h1>
+<h1 align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&width=435&lines=Follow+me!" alt="Typing SVG" /></a>
+</h1>
 
  <p dir="auto" align="center">
         <a href="https://t.me/SabirbaevD" rel="nofollow"><img
@@ -25,7 +27,8 @@
                 data-canonical-src="https://img.shields.io/badge/-Twitter-082032?style=for-the-badge&amp;logo=Twitter&amp;logoColor=#1DA1F2"
                 style="max-width: 100%;"></a>
     </p>
-  
+<br>
+<br>  
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
