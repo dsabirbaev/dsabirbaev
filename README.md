@@ -29,4 +29,8 @@
   
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsabirbaev&show_icons=true&locale=en&layout=compact" alt="dsabirbaev" /></p>
+<div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsabirbaev&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+        <br>    
+        <img src="https://github-readme-stats.vercel.app/api?username=dsabirbaev&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+</div>
