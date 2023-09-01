@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <h1 align="center">👋 Hello! I'm BaggerFast </h1>
+  <h1>👋 Hello! I'm Davran Sabirbaev</h1>
   <h5>Web Developer</h3>
 </div>  
 
@@ -27,3 +27,6 @@
                 style="max-width: 100%;"></a>
     </p>
   
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsabirbaev&show_icons=true&locale=en&layout=compact" alt="dsabirbaev" /></p>
