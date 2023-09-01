@@ -1,8 +1,9 @@
 
-<div id="header" align="center">
-  <h1>👋 Hello! I'm Davran Sabirbaev</h1>
-  <h5>Web Developer</h3>
-</div>  
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Davran+Sabirbaev!;+I'm+a+Frontend+Developer!;" />
+</h1>  
 
   <p align="center">
      <img width="600" src="assets/github-snake.svg" alt="snake"/>
