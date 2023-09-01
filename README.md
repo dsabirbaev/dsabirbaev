@@ -5,9 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Davran+Sabirbaev!;+I'm+a+Frontend+Developer!;" />
 </h1>  
 
-  <p align="center">
-     <img width="600" src="assets/github-snake.svg" alt="snake"/>
-  </p>
+  
   <h1 align="center">Follow me</h1>
 
  <p dir="auto" align="center">
@@ -29,6 +27,12 @@
     </p>
   
 
+
+<div align="center">
+     <h2>🐍 My Contributions 🐍</h2>
+     <br>
+     <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</div>
 
 <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsabirbaev&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
