@@ -1,11 +1,11 @@
 
 <div id="header" align="center">
-  <h1>Hi there, I'm Davran Sabirbaev</h1>
+  <h1 align="center">👋 Hello! I'm BaggerFast </h1>
   <h5>Web Developer</h3>
 </div>  
 
   <p align="center">
-        <img width="600" src="assets/github-snake.svg" alt="snake"/>
+     <img width="600" src="assets/github-snake.svg" alt="snake"/>
   </p>
   <h1 align="center">Follow me</h1>
 
