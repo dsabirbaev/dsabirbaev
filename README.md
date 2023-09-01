@@ -4,7 +4,9 @@
   <h5>Web Developer</h3>
 </div>  
 
-
+  <p align="center">
+        <img width="600" src="assets/github-snake.svg" alt="snake"/>
+  </p>
   <h1 align="center">Follow me</h1>
 
  <p dir="auto" align="center">
