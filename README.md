@@ -27,13 +27,12 @@
     </p>
   
 
-<hr/>
- 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,javascript,typescript,codepen,discord,heroku,netlify" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,git,nextjs" />
+    <img src="https://skillicons.dev/icons?i=github,javascript,typescript,codepen,discord,heroku,netlify,postman,powershell,regex" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,git,nextjs,pug,redux,sass" />
 </div>
 
 <br>
