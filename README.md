@@ -6,7 +6,7 @@
 </h1>  
 
   
-  <h1 align="center">Follow me</h1>
+<h1 align="center">Follow me</h1>
 
  <p dir="auto" align="center">
         <a href="https://t.me/SabirbaevD" rel="nofollow"><img
@@ -27,6 +27,16 @@
     </p>
   
 
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,javascript,typescript,firebase," /><br>
+    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,html,css,vscode,figma,git" />
+</div>
+
+<br>
 
 <div align="center">
      <h2>🐍 My Contributions 🐍</h2>
