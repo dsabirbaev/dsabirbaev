@@ -31,7 +31,7 @@
 <br>  
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,javascript,typescript,codepen,discord,heroku,netlify,postman,powershell,regex,stackoverflow,styledcomponents,svg,tailwind" /><br>
@@ -41,14 +41,14 @@
 <br>
 
 <div align="center">
-     <h2>🐍 My Contributions 🐍</h2>
+     <h2> My Contributions </h2>
      <br>
      <img width="600" src="assets/github-snake.svg" alt="snake"/>
      <br>
      
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
