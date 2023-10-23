@@ -53,11 +53,8 @@
 
 <div align=center>
   
-  <br>
-  <div>      
-      <img height="200" width="450" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dsabirbayev&show_icons=true&theme=gruvbox" alt="Davran's GitHub Stats"/>
-      <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsabirbayev&theme=gruvbox&layout=compact"/>
-  </div>
+
+
 </div>
 
 <br>
