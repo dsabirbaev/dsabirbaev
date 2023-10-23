@@ -48,8 +48,7 @@
      
 </div>
 
-<h2 align="center"> Stats </h2>
-<br>
+
 
 <div align=center>
   
@@ -68,4 +67,4 @@
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=dsabirbaev&icon=0&color=0)](https://visitcount.itsvg.in)
+
