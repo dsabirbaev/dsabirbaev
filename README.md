@@ -50,15 +50,14 @@
 
 <h2 align="center"> Stats </h2>
 <br>
+
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br>
+  
   <br>
   <div>      
-  <img height="200" width="450" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaqdeff&show_icons=true&theme=gruvbox" alt="Shaq's GitHub Stats"/>
-  <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqdeff&theme=gruvbox&layout=compact"/>
-</div>
+      <img height="200" width="450" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dsabirbaev&show_icons=true&theme=gruvbox" alt="Davran's GitHub Stats"/>
+      <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsabirbaevf&theme=gruvbox&layout=compact"/>
+  </div>
 </div>
 
 <br>
