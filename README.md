@@ -55,8 +55,8 @@
   
   <br>
   <div>      
-      <img height="200" width="450" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dsabirbaev&show_icons=true&theme=gruvbox" alt="Davran's GitHub Stats"/>
-      <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsabirbaevf&theme=gruvbox&layout=compact"/>
+      <img height="200" width="450" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaqdeff&show_icons=true&theme=gruvbox" alt="Davran's GitHub Stats"/>
+      <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqdeff&theme=gruvbox&layout=compact"/>
   </div>
 </div>
 
