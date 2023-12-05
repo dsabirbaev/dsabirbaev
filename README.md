@@ -4,8 +4,8 @@
   <h3 align="center">Hey 👋, I'm Davranbek</h3>
 </p>
 
-
- <p dir="auto" align="center">
+<br>
+<p dir="auto" align="center">
         <a href="https://t.me/SabirbayevD" rel="nofollow"><img
                 src="https://camo.githubusercontent.com/277bacdbfadb1f31b9cb47fc7f25627ddc7abbbb9e10ae72ae8c4ea76c8487e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3038323033323f7374796c653d666f722d7468652d6261646765266c6f676f3d54656c656772616d266c6f676f436f6c6f723d23323641354534"
                 alt="Telegram"
@@ -21,7 +21,7 @@
                 alt="Twitter"
                 data-canonical-src="https://img.shields.io/badge/-Twitter-082032?style=for-the-badge&amp;logo=Twitter&amp;logoColor=#1DA1F2"
                 style="max-width: 100%;"></a>
-    </p>
+</p>
 <br>
 <br>  
 
