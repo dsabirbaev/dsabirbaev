@@ -28,11 +28,10 @@
   <h4 align="center">Frontend Web Developer from Tashkent, Uzbekistan</h4>
 </p>
 
-<br>  
-
 <p align="center"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=dsabirbaev&color=blue&style=flat-square" alt="davranbek profile views" />
 </p>
+
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br>
