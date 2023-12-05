@@ -1,9 +1,7 @@
 
 
   
-<h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=F715BDFF&size=30&center=true&duration=4000&width=435&lines=Follow+me!" alt="Typing SVG" />
-</h1>
+
 
  <p dir="auto" align="center">
         <a href="https://t.me/SabirbayevD" rel="nofollow"><img
