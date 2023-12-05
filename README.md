@@ -22,7 +22,7 @@
                 data-canonical-src="https://img.shields.io/badge/-Twitter-082032?style=for-the-badge&amp;logo=Twitter&amp;logoColor=#1DA1F2"
                 style="max-width: 100%;"></a>
 </p>
-<br>
+
 
 <p align="center">
   <h4 align="center">Frontend Web Developer from Tashkent, Uzbekistan</h4>
@@ -30,6 +30,9 @@
 
 <br>  
 
+<p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=dsabirbaev&color=blue&style=flat-square" alt="davranbek profile views" />
+</p>
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br>
