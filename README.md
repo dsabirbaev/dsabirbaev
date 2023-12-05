@@ -1,6 +1,8 @@
 
 
-  
+<p align="center">
+  <h3 align="center">Hey 👋, I'm Davranbek</h3>
+</p>
 
 
  <p dir="auto" align="center">
