@@ -23,6 +23,11 @@
                 style="max-width: 100%;"></a>
 </p>
 <br>
+
+<p align="center">
+  <h4 align="center">Frontend Web Developer from Tashkent, Uzbekistan</h4>
+</p>
+
 <br>  
 
 
