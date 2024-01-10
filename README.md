@@ -1,12 +1,9 @@
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
-/>
+
 
 <p align="center">
   <h3 align="center">Hey 👋, I'm Davranbek</h3>
 </p>
-<i class="ci ci-nuxtjs ci-5x"></i>
+
 <br>
 <p dir="auto" align="center">
         <a href="https://t.me/SabirbayevD" rel="nofollow"><img
