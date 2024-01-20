@@ -27,8 +27,8 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vue,nextjs,nuxtjs,redux,html,css,sass,bootstrap,tailwind,styledcomponents,pug" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,figma,vercel,netlify,vite" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,vue,nuxtjs,redux,pinia,html,css,sass,bootstrap,tailwind" /><br>
+   
 </div>
 
 <br>
