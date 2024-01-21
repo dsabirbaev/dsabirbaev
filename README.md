@@ -24,10 +24,10 @@
 </p>
 
 
-<h2 align="center"> Languages-Frameworks-Tools </h2>
+<h2 align="center"> Languages-Frameworks </h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,vue,nuxtjs,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,vue,nuxtjs" /><br>
    
 </div>
 
